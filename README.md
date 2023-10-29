@@ -11,6 +11,8 @@ MacOS adds a colored background to the highlighted row.
 The selection is only applied on mouse up, but the row is already highlighted on mouse down.
 It is not possible to detect wheather the row is highlighted or not.
 
+![screenshot](./screenshot.png)
+
 
 ## Suggestion
 
