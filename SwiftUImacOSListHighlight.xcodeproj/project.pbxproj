@@ -8,12 +8,14 @@
 
 /* Begin PBXBuildFile section */
 		5A29ABCF2BEB9EA400553EFE /* SwiftUImacOSListHighlightApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ACFB48D2AEE7FD000EDA261 /* SwiftUImacOSListHighlightApp.swift */; };
+		5A29ABD12BEB9ECE00553EFE /* ContentViewResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A29ABD02BEB9ECE00553EFE /* ContentViewResponse.swift */; };
 		5ACFB4902AEE7FD000EDA261 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ACFB48F2AEE7FD000EDA261 /* ContentView.swift */; };
 		5ACFB4922AEE7FD100EDA261 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5ACFB4912AEE7FD100EDA261 /* Assets.xcassets */; };
 		5ACFB4952AEE7FD100EDA261 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5ACFB4942AEE7FD100EDA261 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5A29ABD02BEB9ECE00553EFE /* ContentViewResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentViewResponse.swift; sourceTree = "<group>"; };
 		5ACFB48A2AEE7FD000EDA261 /* SwiftUImacOSListHighlight.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUImacOSListHighlight.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5ACFB48D2AEE7FD000EDA261 /* SwiftUImacOSListHighlightApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUImacOSListHighlightApp.swift; sourceTree = "<group>"; };
 		5ACFB48F2AEE7FD000EDA261 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				5ACFB48D2AEE7FD000EDA261 /* SwiftUImacOSListHighlightApp.swift */,
+				5A29ABD02BEB9ECE00553EFE /* ContentViewResponse.swift */,
 				5ACFB48F2AEE7FD000EDA261 /* ContentView.swift */,
 				5ACFB4912AEE7FD100EDA261 /* Assets.xcassets */,
 				5ACFB4962AEE7FD100EDA261 /* SwiftUImacOSListHighlight.entitlements */,
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5A29ABCF2BEB9EA400553EFE /* SwiftUImacOSListHighlightApp.swift in Sources */,
+				5A29ABD12BEB9ECE00553EFE /* ContentViewResponse.swift in Sources */,
 				5ACFB4902AEE7FD000EDA261 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
