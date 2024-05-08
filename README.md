@@ -1,5 +1,12 @@
 #  FB13310835 - SwiftUI macOS: Highlighted row in a list should be available.
 
+
+## Response from Apple
+
+The environment value backgroundProminence (https://developer.apple.com/documentation/swiftui/environmentvalues/backgroundprominence) should be used to change color accordingly instead of relying on the selection value. 
+
+Provided example is in ContentReviewResponse.swift
+
 ## Scenario
 
 There is a selectable list, which has some design adjustments based on the selected state.
